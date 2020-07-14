@@ -67,6 +67,7 @@
 #define LCD_PINS_RS                          28   // ST9720 CS
 #define LCD_PINS_ENABLE                      17   // ST9720 DAT
 #define LCD_PINS_D4                          30   // ST9720 CLK
+#define FIL_RUNOUT_PIN                       29   //new pin credits to teaching tech hope it works 
 
 #if ENABLED(BLTOUCH)
   #define SERVO0_PIN                         27
